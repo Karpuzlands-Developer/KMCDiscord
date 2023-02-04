@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "2.1.6",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "fast-sort": "^3.2.1",
+    "fstorm": "latest",
+    "jimp": "latest",
+    "loadavg-windows": "^1.1.1",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.2",
+    "normalize-date": "^0.0.4"
+  }
+}

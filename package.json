@@ -17,6 +17,7 @@
     "moment": "^2.29.4",
     "node-cron": "^3.0.2",
     "normalize-date": "^0.0.4",
+    "request": "^2.88.2",
     "tweetnacl": "latest",
     "youtube-dl-exec": "^2.0.2",
     "ytdl-core": "^4.10.0"
